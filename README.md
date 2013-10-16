@@ -7,3 +7,4 @@ Mass SEO Content là phần mềm tập trung vào việc tạo nội dung hiệ
 - Chức năng đăng bài tự động lên các mạng xã hội và blog như Facebook, G+, Wordpress, Tumblr
 - Tự động leech bài từ website, chỉnh sửa hình ảnh trước khi đăng lên các blog vệ tinh
 - Tự động tóm tắt lại bài viết khi leech bài, giúp bài viết khác biệt so với các bài viết ban đầu để SEO trên các blog vệ tinh
+- Link download https://www.facebook.com/groups/massseocontent/
